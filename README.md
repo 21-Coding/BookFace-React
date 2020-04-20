@@ -1,6 +1,6 @@
 # _BookFace_
 
-#### _20 April 2020 | Jamison Cozart, Zakkerey Short, Brandan Sayarath, Dominique Youmans _
+#### _20 April 2020 | Jamison Cozart, Zakkerey Short, Brandan Sayarath, Dominique Youmans_
 
 ## Description
 
