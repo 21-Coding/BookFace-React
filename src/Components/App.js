@@ -1,16 +1,17 @@
 import React from 'react';
-import NavBar from './NavBar';
-import Container from './Container';
-import CreatePost from './CreatePost';
+import NavBar from './NavBar/NavBar';
+import Container from './Container/Container';
+import Footer from './Footer/Footer';
+import './App.css';
 
 function App() {
   return (
     <React.Fragment>
       <NavBar />
-      <h1>BookFace Inc.</h1>
       <Container />
+      <Footer />
     </React.Fragment>
   )
-}
+ }
 
 export default App;
