@@ -6,6 +6,8 @@
 
 _Practice with building a static site using parents and child React components to make a site with a similar layout to Facebook or Twitter._
 
+![React Component Mockup](https://i.imgur.com/rvRgJyo.png)
+
 ## Setup/Installation Requirements
 
 #### Node install
