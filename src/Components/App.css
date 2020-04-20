@@ -1,0 +1,144 @@
+body {
+  font-family: 'Manrope', sans-serif;
+}
+
+.Container {
+  background-color: #E1E8ED;
+}
+
+.NavBar {
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+  background-color: #1DA1F2;
+}
+
+.NavItem {
+  padding: 16px;
+  border: 1px solid black;
+}
+
+.Logo {
+  position: absolute;
+  left: 50%;
+}
+
+.Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.profile {
+  width: 25%;
+  margin: 10px;
+}
+
+.Profile {
+  border: 1px solid blue;
+  padding: 10px;
+  display: flex;
+}
+
+.Profile img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  border: 2px solid blue;
+  margin: 10px;
+}
+
+.Profile button {
+  padding: 8px;
+  font-size: 14px;
+}
+
+.profileHeader {
+  display: flex;
+}
+
+.UserProfile {
+  border: 1px solid purple;
+  margin-bottom: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.UserProfile img {
+  height: 75px;
+  width: 75px;
+  border-radius: 50px;
+  border: 2px solid #ccc;
+  margin: 10px;
+}
+
+.UserProfile a {
+  margin: 10px;
+}
+
+.AboutMe {
+  border: 1px solid orange;
+  padding: 10px;
+}
+
+.Posts {
+  border: 1px solid blue;
+  margin: 10px;
+}
+
+.QuickFollow {
+  border: 1px solid red;
+  width: 25%;
+  margin: 10px;
+  padding: 10px;
+}
+
+.CreatePost {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.CreatePost label {
+  text-align: center;
+}
+
+.CreatePost input {
+  width: 100%;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.CreatePost button {
+  width: 100%;
+  padding: 10px;
+}
+
+.SearchBar {
+  margin-left: auto;
+}
+
+.Post {
+  border: 1px solid red;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.Post img {
+  height: 60px;
+  width: 60px;
+  margin: 10px;
+  border-radius: 60px;
+  border: 2px solid blue;
+}
+
+.Footer {
+  width: 100%;
+  background-color: rgb(173, 190, 201);
+  display: flex;
+}
